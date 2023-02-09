@@ -3,8 +3,6 @@ Software Development, Automation, Cybersecurity, Networking, Computer, Cloud, an
 
 ## Contact Us
 - Website: https://patriotpro.tech
-- Email: contact@patriotpro.tech
-- Phone: 689.231.0148
 
 <!---
 patriotprotech/patriotprotech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
